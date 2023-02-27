@@ -1,5 +1,5 @@
 # WatchGuard-API-Push-Athentication
-Script en Python que hace llamadas a la API de WatchGuard y recoge la acción del usuario , 'ACCEPT' o 'DENY'
+Script en Python que hace llamadas a la API de WatchGuard y recoge la acción del usuario en el PUSH enviado a su smartphone: 'ACCEPT' o 'DENY'
 
 ## Documentation:
 
