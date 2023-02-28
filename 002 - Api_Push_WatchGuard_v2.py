@@ -31,7 +31,7 @@ Pass_de_acceso_RW = 'your WatchGuard access ID password for the RW privileges ac
 usu_admin_ldap = 'usuario del AD con derecho de RW'
 pass_admin_ldap = 'password del usuario del AD con derecho de RW'
 domain_usu_ldap = 'dominio'
-server_uri = f"ldap://<IP del servidor LDAP" 
+server_uri = f"ldap://<IP del servidor LDAP>" 
 search_base = 'CN=' + usuario + ',OU=NIVEL3,OU=NIVEL2,OU=NIVEL1,DC=DOMINIO,DC=loc'
                                             
 ### ******************************************************************************************************************************************************************************
